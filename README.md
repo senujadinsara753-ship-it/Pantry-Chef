@@ -1,7 +1,5 @@
-[package.json](https://github.com/user-attachments/files/33881855/package.json)[vitest.config.ts](https://github.com/user-attachments/files/33881825/vitest.config.ts)[AGENTS.md](https://github.com/user-attachments/files/33881783/AGENTS.md)[README.md](https://github.com/user-attachments/files/33881778/README.md)# Pantry-Chef
-This is a project for Web App Development with Django &amp; Flask with Advanced Python Course Conducted by SLIPD
-
-# URL - 
+# Pantry Chef
+Pantry Chef transforms the way you cook and plan your meals. Just tell us what ingredients you already have in your kitchen, and our intelligent AI will:# URL - 
 (https://learning-lantern-guide.lovable.app)
 # Features -
 Mention what in your pantry (Food Making Items)
@@ -1641,6 +1639,7 @@ e.json…]()
 [tsconfig.json](https://github.com/user-attachments/files/33881877/tsconfig.json)
 
 # Environment variables - 
+
 
 # Api overview - 
 
