@@ -1,4 +1,4 @@
-# Pantry Chef
+# PANTRY CHEF
 Pantry Chef transforms the way you cook and plan your meals. Just tell us what ingredients you already have in your kitchen, and our intelligent AI will:# URL - 
 (https://learning-lantern-guide.lovable.app)
 # Features -
@@ -18,8 +18,15 @@ Click Shopping - When add the recipes to your plan to build a shopping list.
 <img width="1440" height="818" alt="Screenshot 2026-10-23 at 21 09 13" src="https://github.com/user-attachments/assets/116c3652-6535-4c9f-94b9-e749667a0b12" />
 
 
-# Tech stack -
-
+# Tech stack - 
+Layer,Technology,Purpose
+Website / deployment,Lovable,Build and host the Pantry Chef web app
+Frontend framework,React (likely),Build interactive screens and components
+Programming language,TypeScript (likely),Add type safety to the frontend
+Styling,Tailwind CSS (likely),Style the app and make it responsive
+AI recipe generation,AI API (not confirmed),Suggest recipes based on ingredients and preferences
+Backend / database,Not confirmed,"Could store recipes, meal plans, or shopping lists"
+User interface,Web app,"Collect pantry items, preferences, time, and servings; show recipes, meal plans, and shopping lists"
 # Project structure -
 [Uploadin# Welcome to your Lovable project
 
