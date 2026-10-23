@@ -13,6 +13,8 @@ Click Meal Plan - Weekly meal plan will Appear
 Click Shopping - When add the recipes to your plan to build a shopping list.
 
 # Login - 
+<img width="1440" height="818" alt="Screenshot 2026-10-23 at 21 08 54" src="https://github.com/user-attachments/assets/0dd0ddcf-ae7b-4e22-a653-3e7bfc7dc6a7" />
+
 
 # Tech stack -
 
