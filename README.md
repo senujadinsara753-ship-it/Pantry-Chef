@@ -19,14 +19,8 @@ Click Shopping - When add the recipes to your plan to build a shopping list.
 
 
 # Tech stack - 
-Layer,Technology,Purpose
-Website / deployment,Lovable,Build and host the Pantry Chef web app
-Frontend framework,React (likely),Build interactive screens and components
-Programming language,TypeScript (likely),Add type safety to the frontend
-Styling,Tailwind CSS (likely),Style the app and make it responsive
-AI recipe generation,AI API (not confirmed),Suggest recipes based on ingredients and preferences
-Backend / database,Not confirmed,"Could store recipes, meal plans, or shopping lists"
-User interface,Web app,"Collect pantry items, preferences, time, and servings; show recipes, meal plans, and shopping lists"
+<img width="595" height="406" alt="Screenshot 2026-10-23 at 23 47 28" src="https://github.com/user-attachments/assets/912df3a7-fe1b-4628-b7f2-507a4f9309de" />
+
 # Project structure -
 [Uploadin# Welcome to your Lovable project
 
@@ -1646,10 +1640,16 @@ e.json…]()
 [tsconfig.json](https://github.com/user-attachments/files/33881877/tsconfig.json)
 
 # Environment variables - 
+<img width="932" height="290" alt="Screenshot 2026-10-23 at 23 20 50" src="https://github.com/user-attachments/assets/002c1b69-184a-45b0-8d7c-0be625ec16f4" />
 
 
 # Api overview - 
+<img width="932" height="259" alt="Screenshot 2026-10-23 at 23 27 38" src="https://github.com/user-attachments/assets/286aa501-9886-4e47-8c21-5d901a6d258c" />
+
 
 # Roadmap - 
+<img width="932" height="207" alt="Screenshot 2026-10-23 at 23 28 18" src="https://github.com/user-attachments/assets/1eb60aeb-7629-45d6-84d6-4dce07f3663e" />
+
 
 # Author - 
+Created & Develop by Senuja Dinsara by Pantry Chef web app Project via Lovable 
